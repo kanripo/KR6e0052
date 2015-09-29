@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛華嚴入如來德智不思議境界經
+#+DATE: 2015-09-28 22:56:54.750991
+#+PROPERTY: JUAN 0
