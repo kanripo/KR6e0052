@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:54.553341
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:46
 #+TITLE: 佛華嚴入如來德智不思議境界經
 #+PROPERTY: CBETA_ID T10n0303
 #+PROPERTY: ID KR6e0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 303
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0052_T_000-0917b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0052_T_002-0920c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛華嚴入如來德智不思議境界¶
+《佛華嚴入如來德智不思議境界¶
 經》卷下¶
 ¶
 隋天竺三藏闍那崛多譯¶
